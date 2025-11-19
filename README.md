@@ -3,7 +3,7 @@
 
 # express-savage-demo
 
-A demonstration web-application built with Express and styled with the swagger of 21 Savage – a fun, minimal full-stack app that showcases server-side rendering and static assets.
+A robust extensible demonstration web-application Messaging Board, built with Express and styled with the swagger of 21 Savage – a fun, minimal full-stack app that showcases server-side rendering and static assets.
 
 ---
 
